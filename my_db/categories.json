@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "title": "Backpacks",
+  "slug": "backpacks",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef11269bfe1c446aecc9"
+  },
+  "title": "Briefcases",
+  "slug": "briefcases",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "title": "Mini Bags",
+  "slug": "mini-bags",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "title": "Large Handbags",
+  "slug": "large-handbags",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "title": "Travel",
+  "slug": "travel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "title": "Totes",
+  "slug": "totes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "title": "Purses",
+  "slug": "purses",
+  "__v": 0
+}]

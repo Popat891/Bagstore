@@ -1,0 +1,13 @@
+/node_modules
+.env
+/.adminbro
+
+MONGO_URI=mongodb://localhost:27017/bags-ecommerce
+SESSION_SECRET=ajinkya
+STRIPE_PRIVATE_KEY=sk_test_your_stripe_private_key
+GMAIL_EMAIL=your_email@gmail.com
+GMAIL_PASSWORD=your_gmail_password
+ADMIN_EMAIL=admin@example.com
+ADMIN_PASSWORD=admin_password
+ADMIN_COOKIE_NAME=admin_cookie
+ADMIN_COOKIE_PASSWORD=admin_cookie_password

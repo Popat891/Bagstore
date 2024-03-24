@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "65fff3f40a7ef821c40740fd"
+  },
+  "email": "ajinkyakharad04@gmail.com",
+  "password": "$2a$05$CQJn8.y4vIu78GwTDkXvL.zHNjFwgRzL5Ks0dtBTnBy20udPvQ6vy",
+  "username": "Ajinkya kharad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65fff8ae0a7ef821c4074176"
+  },
+  "email": "bhesarpopat@gmail.com",
+  "password": "$2a$05$Ufkk4aRPS9oeyj08Ej02E.IBTpQZvU4mR9hYaVmCFFu8pE.CFqNxu",
+  "username": "Popat Bhesar",
+  "__v": 0
+}]

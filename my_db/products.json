@@ -1,0 +1,1361 @@
+[{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc414"
+  },
+  "productCode": "8158-0854678968",
+  "title": "Classic Blue Backpack",
+  "imagePath": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+  "description": "Necessitatibus et eligendi delectus. Vitae et neque quasi iure sequi amet ipsa sequi maxime. A atque modi tenetur. Necessitatibus dolores qui odit eos qui qui facilis. Qui fugit voluptas aliquam et.",
+  "price": 35,
+  "manufacturer": "Lesch and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc416"
+  },
+  "productCode": "8665-8719612188",
+  "title": "Black Fjallraven Backpack",
+  "imagePath": "https://images.unsplash.com/photo-1562546106-b9cb3a76a206?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+  "description": "Commodi voluptatem libero enim necessitatibus rerum quia sit quaerat. Porro officiis eos et tenetur qui quia consequatur. Id qui neque repudiandae sint est eum sit nulla. Consequatur recusandae est ut autem ducimus.",
+  "price": 34,
+  "manufacturer": "Brakus Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717779"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc418"
+  },
+  "productCode": "5467-1951475603",
+  "title": "Brown and Green Leather Backpack",
+  "imagePath": "https://images.unsplash.com/photo-1577733966973-d680bffd2e80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+  "description": "Et ut fugiat cupiditate asperiores et nesciunt. A sit in eius enim quisquam aut eum deserunt. Molestias deserunt ut quibusdam. Inventore molestias et eius at tenetur.",
+  "price": 31,
+  "manufacturer": "Bednar Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717785"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc41a"
+  },
+  "productCode": "7878-2184525672",
+  "title": "Grey Stylish Backpack",
+  "imagePath": "https://images.unsplash.com/photo-1546938576-6e6a64f317cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
+  "description": "Modi id placeat dolores voluptatem. Omnis at possimus repellat cum amet. Consequatur dolorem voluptatem quisquam neque.",
+  "price": 14,
+  "manufacturer": "Johns Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717790"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc41c"
+  },
+  "productCode": "3511-8026021865",
+  "title": "Elegant Black Backpack",
+  "imagePath": "https://images.unsplash.com/photo-1585916420730-d7f95e942d43?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+  "description": "In laudantium corrupti. Doloremque quia omnis. Voluptate totam pariatur qui aut veritatis enim. Unde in in rerum doloremque tempore.",
+  "price": 26,
+  "manufacturer": "Pacocha and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717795"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc41e"
+  },
+  "productCode": "8716-8248229859",
+  "title": "Practical Blue Backpack With Leather Straps",
+  "imagePath": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+  "description": "Aut aspernatur voluptas debitis qui. Magnam ea qui veniam. Placeat ex repudiandae est aut assumenda rerum et. Dolores a nemo est voluptatem et nam in. Autem aliquid non pariatur tempore totam totam esse molestias assumenda.",
+  "price": 32,
+  "manufacturer": "Krajcik LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717800"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc420"
+  },
+  "productCode": "6746-9343669823",
+  "title": "Soft Classic Biege Backpack",
+  "imagePath": "https://images.pexels.com/photos/2422476/pexels-photo-2422476.png?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+  "description": "Voluptatem possimus nihil. Commodi quae eum eveniet. Voluptatem omnis repellendus praesentium voluptatem quis.",
+  "price": 10,
+  "manufacturer": "Kautzer and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717803"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc422"
+  },
+  "productCode": "3634-7171569541",
+  "title": "Practical Durable Backpack",
+  "imagePath": "https://images.pexels.com/photos/1545998/pexels-photo-1545998.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+  "description": "Amet tenetur est animi delectus. Et quas sed omnis corrupti provident. Iusto id saepe perferendis magnam id assumenda ullam ea maxime. Minus at nesciunt odit optio impedit culpa ut delectus id. Non molestias blanditiis autem corporis quia dolor. Cupiditate error culpa ipsam excepturi consequuntur ipsum at.",
+  "price": 22,
+  "manufacturer": "Kassulke LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717806"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc424"
+  },
+  "productCode": "1490-0514354292",
+  "title": "Comfortable Laptop Backpack",
+  "imagePath": "https://live.staticflickr.com/3428/3361015646_303a2d0571_b.jpg",
+  "description": "Et est omnis officiis occaecati commodi. Commodi earum eos repellendus non quod eligendi consequatur. Voluptatem dolor soluta ex cupiditate voluptatem asperiores quas labore. Fuga qui quod. Vel saepe laboriosam id. Sequi autem veniam quidem vitae sint non aut ratione animi.",
+  "price": 16,
+  "manufacturer": "Maggio and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717810"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc426"
+  },
+  "productCode": "8502-3332151705",
+  "title": "Extra Large Grey Backpack",
+  "imagePath": "https://storage.needpix.com/rsynced_images/backpack-2634622_1280.jpg",
+  "description": "Quia distinctio est ipsum. Aut quibusdam corporis possimus nesciunt minima perferendis tempore incidunt ut. A dignissimos aut deleniti sapiente est quisquam facilis inventore.",
+  "price": 11,
+  "manufacturer": "Abshire LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717814"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc429"
+  },
+  "productCode": "3844-1248787626",
+  "title": "Aluminium Metal Suitcase",
+  "imagePath": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Aluminium_Briefcase.jpg",
+  "description": "Iusto est commodi tempora placeat maiores magnam. Nesciunt culpa quos sapiente quia consectetur. Blanditiis praesentium quas nisi aut occaecati velit aut doloribus dicta. Ut voluptatem reiciendis mollitia. Sed maiores et id consequatur harum totam.",
+  "price": 46,
+  "manufacturer": "Renner Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc9"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717819"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc42b"
+  },
+  "productCode": "6316-7083546736",
+  "title": "Black Leather Durable Suitcase",
+  "imagePath": "http://res.freestockphotos.biz/pictures/1/1751-black-leather-briefcase-on-a-white-background-pv.jpg",
+  "description": "Perspiciatis quos aperiam. Facilis ea minima eius. Omnis esse et earum exercitationem accusamus. Error impedit ratione autem beatae qui accusantium modi consequatur. Et voluptatem doloremque sint aut pariatur. Et modi molestiae aut ipsum.",
+  "price": 13,
+  "manufacturer": "Koch LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecc9"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717823"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc42e"
+  },
+  "productCode": "2514-2520751836",
+  "title": "Stylish Pastel Pink Travel Bag",
+  "imagePath": "https://p1.pxfuel.com/preview/899/786/420/travel-bag-hard-and-bag.jpg",
+  "description": "Ut commodi sit odit unde voluptatem. Ipsa atque nulla consequatur qui quidem animi voluptatum deserunt eaque. Accusamus minima qui. Qui voluptas ea dignissimos temporibus totam vel illo voluptatibus. Sint qui laudantium ex perspiciatis.",
+  "price": 15,
+  "manufacturer": "Lakin LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717828"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc430"
+  },
+  "productCode": "5107-9786041582",
+  "title": "A Fahionable Set of Two Pink Travel Bags",
+  "imagePath": "https://p1.pxfuel.com/preview/479/120/981/luggage-metallic-luguagge-case.jpg",
+  "description": "Dolor tempora dolorem porro quia rerum. Eos error eius omnis voluptas quos. Officiis voluptatem atque eaque iure beatae repudiandae consequatur et. Animi et reprehenderit at laboriosam sint qui consequatur qui ut. Sed dolor voluptates velit consequuntur et voluptatem eius maiores tempore.",
+  "price": 13,
+  "manufacturer": "Breitenberg LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717830"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc432"
+  },
+  "productCode": "4329-2849188210",
+  "title": "White and Black Hard Luggage",
+  "imagePath": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+  "description": "Quisquam eaque aut hic enim nihil cum earum reiciendis. Voluptatem commodi non quam fugit vero optio fugit. Earum repellat velit quibusdam doloribus et. Quia architecto delectus ut doloribus nulla.",
+  "price": 35,
+  "manufacturer": "Auer Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717833"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc434"
+  },
+  "productCode": "0195-2565726294",
+  "title": "Rainbow Dotted Duffle Bag Luggage",
+  "imagePath": "https://cdn.pixabay.com/photo/2019/06/20/16/10/duffle-bag-4287485_960_720.png",
+  "description": "Odit ut deleniti nihil nihil. Aut consectetur sit beatae occaecati ea. Minus aspernatur amet fugit recusandae modi est.",
+  "price": 15,
+  "manufacturer": "Schinner Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717835"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc436"
+  },
+  "productCode": "1626-5694233180",
+  "title": "Blue and Gray Classic Suitcase",
+  "imagePath": "https://p0.pikrepo.com/preview/74/133/blue-and-gray-suede-rolling-luggage-thumbnail.jpg",
+  "description": "Et impedit eos culpa. Quos quia et ratione aspernatur enim sint molestiae qui. Aliquam iusto excepturi numquam est rerum qui facilis. Enim omnis accusamus quas dolores soluta aspernatur est. Corporis excepturi aperiam.",
+  "price": 25,
+  "manufacturer": "Pouros LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717838"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc438"
+  },
+  "productCode": "1840-8635650940",
+  "title": "A Set of Three Hard Durable Suitcases",
+  "imagePath": "https://cdn.pixabay.com/photo/2019/01/22/15/53/suitcases-3948389_960_720.png",
+  "description": "Dolore omnis accusantium. Adipisci qui quidem voluptatem blanditiis beatae autem. Omnis sit dolores expedita.",
+  "price": 22,
+  "manufacturer": "Balistreri and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717840"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc43a"
+  },
+  "productCode": "1231-4832939785",
+  "title": "Light Blue Hard Luggage",
+  "imagePath": "https://cdn.pixabay.com/photo/2019/07/09/11/52/travel-bag-4326738_960_720.jpg",
+  "description": "Est est aliquid dolor ipsam et repellat quam. Totam numquam incidunt qui qui non eaque similique. Aut quod commodi impedit corporis. Aut et consectetur sapiente quia. Debitis id error eos qui doloribus consequatur aspernatur.",
+  "price": 46,
+  "manufacturer": "Cartwright LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc43c"
+  },
+  "productCode": "8573-1294425173",
+  "title": "Black Leather Vintage Suitcase",
+  "imagePath": "https://p0.pxfuel.com/preview/942/496/984/various-bag-bags-luggage.jpg",
+  "description": "Quae doloremque earum eos ut eius dicta voluptas. Molestiae deleniti sed eum molestias itaque ex possimus recusandae. Aut nulla sed alias natus iste est.",
+  "price": 34,
+  "manufacturer": "Dooley Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc43e"
+  },
+  "productCode": "2804-0641988959",
+  "title": "A Set of Three Large Travel Bags",
+  "imagePath": "https://p0.pxfuel.com/preview/273/580/962/travelvarious-bag-bags-holiday.jpg",
+  "description": "Consequatur itaque quaerat dolor quia aut placeat. Beatae non quod ex tenetur sed quos. Recusandae ab consequatur. Voluptates ut soluta. Incidunt nobis magni aut ducimus itaque laudantium consequatur. Temporibus optio maiores qui atque autem.",
+  "price": 27,
+  "manufacturer": "Runolfsson and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717845"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc440"
+  },
+  "productCode": "0378-1449282794",
+  "title": "Two Stylish Light Green Travel Bags With Different Sizes",
+  "imagePath": "https://p1.pxfuel.com/preview/926/897/247/travel-bag-hard-and-bag.jpg",
+  "description": "Quis temporibus ea nulla aut. Aliquid libero et laborum unde tempore sint qui quos ut. Repudiandae autem corrupti sit qui et et quae voluptatem animi.",
+  "price": 45,
+  "manufacturer": "Kreiger Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717846"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc442"
+  },
+  "productCode": "8450-7003357392",
+  "title": "Simple Blue Luggage with Many Compartments",
+  "imagePath": "https://p0.pxfuel.com/preview/963/699/697/bag-blue-handbag-white.jpg",
+  "description": "Voluptatem exercitationem vel dolorem error doloribus. Beatae at pariatur et et reprehenderit sit velit est. Hic aut quibusdam quis rerum suscipit. Rem illum dicta nulla nisi neque omnis. Sunt dolor molestiae ratione veniam illum quidem corrupti qui voluptatum. Sunt vel numquam quas aut eveniet nemo ducimus.",
+  "price": 17,
+  "manufacturer": "Streich Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717848"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc445"
+  },
+  "productCode": "7693-3692061308",
+  "title": "Pink Leather Crossbody Bag",
+  "imagePath": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80",
+  "description": "Reiciendis eos et natus et. Explicabo eos nostrum molestiae ab doloremque. Saepe impedit natus sed eum et.",
+  "price": 19,
+  "manufacturer": "Smith and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc447"
+  },
+  "productCode": "5374-3906464875",
+  "title": "Stylish Pink Crossbody Bag",
+  "imagePath": "https://upload.wikimedia.org/wikipedia/commons/b/bc/DKNY_Mini_Flap_Crossbody_W_-_SS_Crossbody_R1513004_Kalbsleder_beige_%281%29_%2816080518124%29.jpg",
+  "description": "Amet vero facilis non placeat. Delectus cum voluptate qui sed esse. Molestias voluptate dolore sed qui.",
+  "price": 45,
+  "manufacturer": "Osinski LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717853"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc449"
+  },
+  "productCode": "2099-4982783609",
+  "title": "Mini Black Carra Shoulder Bag",
+  "imagePath": "https://p1.pxfuel.com/preview/177/215/691/handbag-bag-today-the-postwoman-fashion-style-skin.jpg",
+  "description": "Perferendis ut est eligendi quod asperiores laborum tempore. Natus praesentium iure. Deserunt dolorum consequatur minima esse magni cum qui rem debitis. Voluptatem sit aspernatur.",
+  "price": 45,
+  "manufacturer": "Gottlieb LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717855"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc44b"
+  },
+  "productCode": "0348-8978471565",
+  "title": "White Leather Mini Bag with Crossbody Strap",
+  "imagePath": "https://p2.piqsels.com/preview/392/1016/905/handbags-white-fashion-bag-shoulder-bag.jpg",
+  "description": "Et placeat ut ea accusantium beatae. Nesciunt officiis quam et qui minima sapiente. Laboriosam tempore dolore.",
+  "price": 34,
+  "manufacturer": "Hegmann Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717857"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc44d"
+  },
+  "productCode": "9515-7732169748",
+  "title": "Blue Jeans Mini Bag",
+  "imagePath": "https://c.pxhere.com/photos/37/cb/camera_bag_scene_package_fashion-900156.jpg!d",
+  "description": "Qui consectetur praesentium et optio eveniet. Tempore et maiores. Vero saepe temporibus reiciendis perspiciatis.",
+  "price": 38,
+  "manufacturer": "Zemlak and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717858"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc44f"
+  },
+  "productCode": "8964-7056460879",
+  "title": "Biege Be Dior Mini Bag with Crossbody Strap",
+  "imagePath": "https://c.pxhere.com/photos/94/0e/bag_dior_x_n-867928.jpg!d",
+  "description": "Unde fugit rerum ut ipsum magni. Consequatur repudiandae excepturi nostrum sed aspernatur dolore. Aut dolores itaque ipsa.",
+  "price": 26,
+  "manufacturer": "Lynch and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717860"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc451"
+  },
+  "productCode": "1826-8965246515",
+  "title": "Red Be Dior Mini Bag with Crossbody Strap",
+  "imagePath": "https://c.pxhere.com/photos/92/ad/bag_dior_u-867943.jpg!d",
+  "description": "Autem error id autem voluptatibus eos perferendis dolores similique unde. Ratione nulla recusandae nobis et consectetur vero. Qui vel ut totam eveniet. Est eius minus.",
+  "price": 50,
+  "manufacturer": "Swift Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717862"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc453"
+  },
+  "productCode": "5675-1532668287",
+  "title": "Light Blue Mini Bag with Golden Strap",
+  "imagePath": "https://c.pxhere.com/photos/5b/ea/bag_fashion_style-518819.jpg!d",
+  "description": "Nulla illo sit quos ipsum est. Corporis et illo. Rerum reprehenderit in magnam voluptates iste. Sequi dolor quae neque ut illum deserunt facilis. Odit quis ut ducimus architecto laborum dicta et rerum laudantium. Molestias voluptatem minus earum ab voluptatum.",
+  "price": 30,
+  "manufacturer": "Moore and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717864"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc455"
+  },
+  "productCode": "0623-9212753722",
+  "title": "Light Green Mini Bag with Golden Strap",
+  "imagePath": "https://c.pxhere.com/photos/19/aa/bag_fashion_style-518820.jpg!d",
+  "description": "Et qui adipisci et ratione impedit est inventore nesciunt quis. Deserunt omnis officiis voluptatibus soluta dicta molestiae. Veniam ut id quisquam maxime alias repudiandae.",
+  "price": 43,
+  "manufacturer": "Stiedemann and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717866"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc457"
+  },
+  "productCode": "8286-6709411602",
+  "title": "Pastel Pink Mini Bag with Golden Strap",
+  "imagePath": "https://c.pxhere.com/photos/41/9e/bag_fashion_style-518821.jpg!d",
+  "description": "Deserunt qui et. Dolor fugit quia. Nesciunt tenetur similique.",
+  "price": 30,
+  "manufacturer": "Gerhold LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717867"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc459"
+  },
+  "productCode": "0447-9601840787",
+  "title": "Biege Leather Crossbody Bag",
+  "imagePath": "https://c.pxhere.com/photos/24/f9/bag_fashion_style-518803.jpg!d",
+  "description": "Nam veritatis dolore. Sapiente quia porro quibusdam. Blanditiis assumenda fugit doloribus qui enim est recusandae aut.",
+  "price": 33,
+  "manufacturer": "Hegmann Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717869"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc45b"
+  },
+  "productCode": "4868-9650024645",
+  "title": "White Leather Crossbody Bag",
+  "imagePath": "https://c.pxhere.com/photos/16/e8/bag_fashion_style-518804.jpg!d",
+  "description": "Ut alias quos optio quisquam. Quisquam aperiam sed nostrum. Eligendi ut repellat sunt.",
+  "price": 24,
+  "manufacturer": "DuBuque Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717871"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc45d"
+  },
+  "productCode": "4070-3405556624",
+  "title": "Elegant White Mini Bag with Silver Strap",
+  "imagePath": "https://images.unsplash.com/photo-1564422167509-4f8763ff046e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+  "description": "Omnis mollitia eos vero sapiente rerum. Excepturi et libero veritatis suscipit praesentium perspiciatis dolor consectetur enim. Ad sunt expedita facilis. Et eligendi et consectetur.",
+  "price": 22,
+  "manufacturer": "Grant LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc45f"
+  },
+  "productCode": "1229-0218980391",
+  "title": "Simple Red Mini Bag",
+  "imagePath": "https://c.pxhere.com/photos/87/f0/bag_crimson_product_photos_padlock_bag_women_bags_dot_white-1000331.jpg!d",
+  "description": "Quis dolores fuga repellat qui sed ullam asperiores similique delectus. Voluptas vitae est nobis perspiciatis dicta sed libero animi eos. Molestiae voluptatem optio dolor ut similique.",
+  "price": 17,
+  "manufacturer": "Rohan and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc462"
+  },
+  "productCode": "7675-7910812856",
+  "title": "Elegant Shiny Brown Leather Handbag",
+  "imagePath": "https://c.pxhere.com/photos/a8/b7/handbag_purse_fashion_bag_female_style_women_elegance-703150.jpg!d",
+  "description": "Voluptatibus nostrum sed nisi aut fugit. Ut a nisi et fuga et voluptatum odit dolore cupiditate. Nam et tenetur dolore fugiat libero omnis repellendus aut. Ipsum ab soluta est aut dolorem et sed at. Ea facilis nam maiores recusandae velit eos magni minima.",
+  "price": 19,
+  "manufacturer": "Brown LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717877"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc464"
+  },
+  "productCode": "5335-5066987849",
+  "title": "Black Leather Handbag with Golden Chains",
+  "imagePath": "https://c.pxhere.com/photos/b6/5c/handbag_purse_fashion_bag_female_women_accessory_modern-703145.jpg!d",
+  "description": "Et ratione voluptatem animi non soluta sit sed odit. Et error dignissimos. Qui aspernatur totam ad aliquid sit rerum. Earum omnis ut eum quod rem harum nam. Nihil doloribus rerum sit nihil. Sed corporis adipisci porro rem ratione natus iste.",
+  "price": 40,
+  "manufacturer": "Bashirian and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717879"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc466"
+  },
+  "productCode": "1544-6035553936",
+  "title": "Elegant Black Leather Handbag",
+  "imagePath": "https://c.pxhere.com/photos/4b/82/handbag_purse_fashion_bag_female_style_women_lady-703156.jpg!d",
+  "description": "Enim nihil voluptatem animi omnis vero soluta. Deserunt ut tenetur eos odio dolorum et. Et aut aspernatur qui porro debitis ea et omnis molestiae. Ipsa recusandae at. Dolores consequatur nihil voluptatem voluptatibus et dolorem hic aut.",
+  "price": 18,
+  "manufacturer": "Gorczany Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717880"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc468"
+  },
+  "productCode": "0693-7451347716",
+  "title": "Stylish Blue Handbag with its Purse",
+  "imagePath": "https://images.unsplash.com/photo-1564422170194-896b89110ef8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+  "description": "Voluptas quia ipsam optio nisi rerum inventore similique commodi. Vel necessitatibus nemo amet inventore est. Qui harum eveniet quisquam non cumque quos dolorem. Odio quia et est sapiente placeat optio. Temporibus architecto esse corporis voluptatum esse et nihil consequuntur ut. Quaerat iusto eos assumenda sint libero vitae qui.",
+  "price": 35,
+  "manufacturer": "Wilkinson Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717882"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc46a"
+  },
+  "productCode": "8899-9586852740",
+  "title": "A set of Two Elegant Handbags",
+  "imagePath": "https://images.unsplash.com/photo-1564222256577-45e728f2c611?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+  "description": "Omnis delectus sed repellat sint aliquid sit iusto quo est. Aut et corrupti et et et eos dolorum recusandae et. Rerum eligendi est aut impedit dolores magni fuga fugit. Enim suscipit quia et eaque neque architecto consequuntur sed. Perspiciatis suscipit excepturi nulla maxime.",
+  "price": 19,
+  "manufacturer": "Lubowitz and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717884"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc46c"
+  },
+  "productCode": "6084-8222355476",
+  "title": "Practical Blue Leather Handbag with its Purse",
+  "imagePath": "https://p1.pxfuel.com/preview/680/478/429/online-shopping-lisaswardrobe-handbags-shopping.jpg",
+  "description": "Impedit magnam error dolores rerum corrupti amet dolore officiis. Impedit quaerat quod. Autem enim et qui. Veniam dolores ea corporis. Aut velit molestiae et totam harum qui. Nobis voluptatem itaque qui ullam provident veritatis quis recusandae.",
+  "price": 17,
+  "manufacturer": "Howe and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717887"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc46e"
+  },
+  "productCode": "1703-9138776450",
+  "title": "Simple Black Leather Handbag",
+  "imagePath": "https://p1.pxfuel.com/preview/762/878/334/handbag-black-gold.jpg",
+  "description": "Cumque quasi velit est magni placeat sed. Quia necessitatibus rerum in illo esse quis delectus velit. Nesciunt consequuntur atque consequatur. Dolores architecto nemo. Sed fugit laborum esse.",
+  "price": 29,
+  "manufacturer": "Rogahn Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717890"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc470"
+  },
+  "productCode": "3985-9936326806",
+  "title": "Golden Leather Handbag",
+  "imagePath": "https://p1.pxfuel.com/preview/550/178/484/bag-handbag-haberdashery.jpg",
+  "description": "Beatae placeat sed vel voluptate est qui dolores modi voluptas. Nisi eum ut harum consequatur laborum qui adipisci. Tempore error minima repellendus similique et nobis in et. A dicta ut et rerum nesciunt qui ut nam harum. Quaerat et doloribus iure voluptas qui ducimus ut dolores. Officia numquam ex occaecati ut sit dolor illo nihil.",
+  "price": 14,
+  "manufacturer": "Brakus LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717891"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc472"
+  },
+  "productCode": "1997-2668692894",
+  "title": "Shiny Black Leather Handbag",
+  "imagePath": "https://p1.pxfuel.com/preview/5/396/904/package-briefcase-leather-bags.jpg",
+  "description": "Ducimus sint sunt deserunt non molestias saepe at. Est aut voluptatibus eum. Rerum et omnis aliquam sint ut aut ad minus ullam. Itaque reiciendis unde quis quae tempora error aliquam repudiandae. Illo nisi cumque rerum id nisi quasi nemo sit.",
+  "price": 12,
+  "manufacturer": "Gerhold Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717894"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc474"
+  },
+  "productCode": "3645-5735631238",
+  "title": "Gray and Yellow Flowery Shoulder Bag",
+  "imagePath": "https://p1.pxfuel.com/preview/843/210/542/vera-bradley-purse-handbag-shoulder-bag.jpg",
+  "description": "Nemo eos neque vel ipsum quas doloremque cumque impedit. Non et consequatur. Soluta unde sapiente explicabo accusamus est nemo.",
+  "price": 49,
+  "manufacturer": "Fisher and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717896"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc476"
+  },
+  "productCode": "6264-5944881772",
+  "title": "Blue and Brown Leather Handbag with Shoulder Strap",
+  "imagePath": "https://p1.pxfuel.com/preview/57/634/392/purse-bag-handbag-fashion.jpg",
+  "description": "Aut odio ipsum ut. Libero sunt laborum aut quo quas sit optio. Voluptatibus voluptatem fugiat esse accusamus consequatur quo quo non.",
+  "price": 18,
+  "manufacturer": "Kuhic Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aeccf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717899"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc479"
+  },
+  "productCode": "9686-1963571672",
+  "title": "Hot Pink Leather Purse",
+  "imagePath": "https://c.pxhere.com/photos/c2/fc/bag_fashion_style-518806.jpg!d",
+  "description": "Unde voluptas qui sed rerum aliquam voluptatem dignissimos quia. Voluptas atque ullam eligendi aut dicta reiciendis nulla velit neque. Nisi itaque repellendus voluptas.",
+  "price": 18,
+  "manufacturer": "Stoltenberg and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717905"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc47b"
+  },
+  "productCode": "7180-7027159827",
+  "title": "Glittery Black Purse with Golden Strap",
+  "imagePath": "https://images.unsplash.com/photo-1564222195116-8a74a96b2c8c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+  "description": "Molestiae totam inventore sed ex voluptatem eos ipsam. Porro placeat et neque. Quia doloribus possimus.",
+  "price": 35,
+  "manufacturer": "McCullough and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717908"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc47d"
+  },
+  "productCode": "4785-8820681736",
+  "title": "Practical Black Leather Purse",
+  "imagePath": "https://c.pxhere.com/photos/cb/9e/wallet_black_clutch_purse_leather_fashion_style_accessory-952715.jpg!d",
+  "description": "Rerum accusamus voluptatibus. Eius voluptas consequatur ullam non eaque consectetur et. Ea aliquid totam deleniti est iusto qui. Quo mollitia architecto earum mollitia animi minima autem ut.",
+  "price": 45,
+  "manufacturer": "Prosacco LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717911"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc47f"
+  },
+  "productCode": "6546-8731531998",
+  "title": "Red Leather Pouche with Free Earrings",
+  "imagePath": "https://c.pxhere.com/photos/63/90/purse_handbag_fashion_bag_style_design_leather_accessory-780266.jpg!d",
+  "description": "Excepturi et reiciendis modi. Asperiores asperiores velit. Velit occaecati sit quo quibusdam. Maxime impedit autem aspernatur non.",
+  "price": 32,
+  "manufacturer": "Glover and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717913"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc481"
+  },
+  "productCode": "3474-3236060793",
+  "title": "Lavender Leather Purse",
+  "imagePath": "https://c.pxhere.com/photos/2d/da/wallet_purple_wallet_purple_money_purse_billfold_lavender_fashion-863005.jpg!d",
+  "description": "Dolore repellat enim et sed quia fugit unde tenetur. Officia molestiae dolorum alias velit blanditiis iusto est voluptatum nobis. Unde nam quia voluptate occaecati laborum ab et eum quia. Sed dolor laudantium veniam pariatur. Et ab soluta amet fuga est explicabo ullam.",
+  "price": 14,
+  "manufacturer": "Roob Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717915"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc483"
+  },
+  "productCode": "1626-2159097079",
+  "title": "White and Black Snakeskin Purse",
+  "imagePath": "https://images.unsplash.com/photo-1563904092230-7ec217b65fe2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+  "description": "Dolorum quia dolore dolores ex non eos. Totam aut dolores quia dolorum et laboriosam cum. Et temporibus fugiat.",
+  "price": 37,
+  "manufacturer": "Ebert and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717917"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc485"
+  },
+  "productCode": "0915-9817090411",
+  "title": "Dark Brown Simple Purse",
+  "imagePath": "https://www.publicdomainpictures.net/pictures/60000/velka/leather-purse-isolated-background.jpg",
+  "description": "Voluptatibus cupiditate animi quas rerum adipisci sed minus voluptatibus. Doloremque odit error asperiores incidunt dolorum dolores sunt amet. Voluptas quis placeat nam consequatur et. Labore veritatis aut. Autem fugit quidem facere quidem dolor consequatur pariatur quas earum.",
+  "price": 22,
+  "manufacturer": "Vandervort Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717918"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc487"
+  },
+  "productCode": "2154-4583108587",
+  "title": "Red Kipling Pouche",
+  "imagePath": "https://c.pxhere.com/photos/94/29/bag_handbag_purse_pink_red_fashion_glamour_accessory-952105.jpg!d",
+  "description": "Ipsam qui voluptatem voluptatem excepturi. Enim ullam exercitationem repellat sint aut nam. Necessitatibus cupiditate reprehenderit quos eos. Rerum dolorem quae sed ratione. Eum earum odit facere rem nihil velit velit amet. Minima non et aut officiis aspernatur qui.",
+  "price": 28,
+  "manufacturer": "Hansen and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717920"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc489"
+  },
+  "productCode": "4781-0748292305",
+  "title": "Biege Kipling Pouche",
+  "imagePath": "https://c.pxhere.com/photos/9b/57/bag_purse_handbag_fashion_style_accessory_white-1336949.jpg!d",
+  "description": "Dolores consequatur voluptas qui. Corrupti sapiente corporis ut veritatis. Cupiditate aliquid quidem tempore similique et et accusamus dolores voluptates. Repellat quod temporibus omnis nesciunt iste eos nemo ut.",
+  "price": 30,
+  "manufacturer": "Fay Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717922"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc48c"
+  },
+  "productCode": "0767-3654300727",
+  "title": "Plain White Cotton Tote",
+  "imagePath": "https://p1.pxfuel.com/preview/1021/986/529/bag-cotton-cotton-bag-textile-wall-white.jpg",
+  "description": "Ab illo nihil voluptas hic omnis animi. Consequuntur sit porro sapiente. Est aperiam nisi quod quibusdam.",
+  "price": 14,
+  "manufacturer": "Wintheiser Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717928"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc48e"
+  },
+  "productCode": "9732-5131747856",
+  "title": "Elegant Red Leather Tote",
+  "imagePath": "https://p1.pxfuel.com/preview/741/996/910/handbag-fashion-fashionable-woman.jpg",
+  "description": "Cum assumenda dolores mollitia impedit. Et provident excepturi. Omnis enim omnis libero voluptatibus quis debitis nihil. Porro hic totam sit est minus. Nisi suscipit ut earum molestiae fugit cupiditate atque ipsam. Quibusdam atque esse.",
+  "price": 35,
+  "manufacturer": "Ullrich and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717930"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc490"
+  },
+  "productCode": "0991-6890741647",
+  "title": "Handmade Embroided White Tote with Red Roses",
+  "imagePath": "https://p1.pxfuel.com/preview/58/205/88/shop-bag-bags-sale.jpg",
+  "description": "Voluptatem itaque qui voluptas qui. Excepturi cum dignissimos eveniet incidunt animi et alias. Occaecati eius magni molestias. Quia sit placeat vel ut ut earum. Officia et possimus sed tempore rem expedita.",
+  "price": 36,
+  "manufacturer": "Fritsch and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717932"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc492"
+  },
+  "productCode": "0440-6936469453",
+  "title": "Multicolored White Tote",
+  "imagePath": "https://p1.pxfuel.com/preview/367/279/652/bag-bag-elephant-cloth-bag.jpg",
+  "description": "Suscipit reiciendis delectus laudantium tempora adipisci. Nisi rerum beatae ut reprehenderit sit. Sapiente soluta voluptas modi et et error eos nesciunt.",
+  "price": 38,
+  "manufacturer": "Miller and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717934"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc494"
+  },
+  "productCode": "0236-5176167030",
+  "title": "Owl White Cotton Tote",
+  "imagePath": "https://p0.pikrepo.com/preview/627/393/white-blue-and-red-owl-print-tote-bag.jpg",
+  "description": "Aliquid ratione occaecati suscipit corrupti suscipit quisquam et vero. Et sit rerum quas a pariatur rerum voluptas minima. Ea commodi mollitia eum sunt aut blanditiis. Repellat praesentium quaerat minima hic sed iste. Distinctio dignissimos ad vitae quos.",
+  "price": 42,
+  "manufacturer": "Auer LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717936"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc496"
+  },
+  "productCode": "1112-5138410047",
+  "title": "Simple Grey Zipped Tote",
+  "imagePath": "https://farm5.staticflickr.com/4022/4714518639_8d9e06be13_b.jpg",
+  "description": "Doloribus voluptas fugit culpa earum rerum ipsa. Incidunt aut officia voluptas modi qui soluta nihil et. Consequatur voluptatem incidunt.",
+  "price": 50,
+  "manufacturer": "Schoen and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717938"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc498"
+  },
+  "productCode": "2904-6979446292",
+  "title": "Earth Positive Tote Bag",
+  "imagePath": "https://live.staticflickr.com/3538/3674472019_727d8c4669.jpg",
+  "description": "Tempore cum itaque hic sequi qui. Quidem vero reiciendis. Atque doloremque aut qui quaerat praesentium id in beatae aut. Cupiditate tenetur tempora quam debitis culpa modi necessitatibus repellat ullam. Non velit numquam et voluptate possimus dolorem. Voluptatem perferendis quia aut dolore animi molestiae.",
+  "price": 41,
+  "manufacturer": "Hermiston and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717940"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc49a"
+  },
+  "productCode": "1950-7105126987",
+  "title": "Deep Purple Handstamped Tote",
+  "imagePath": "https://live.staticflickr.com/5161/5342130557_7fa8cc5935_b.jpg",
+  "description": "Nesciunt ipsum veritatis ipsa provident sit facere aut. Veritatis ea pariatur quasi nam. Cum sapiente beatae. Nam voluptas explicabo dolores nihil. Quaerat eum voluptatem odit quisquam.",
+  "price": 12,
+  "manufacturer": "Stark Group",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717941"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc49c"
+  },
+  "productCode": "7754-7938840216",
+  "title": "White Cotton Tote with Drawings",
+  "imagePath": "https://p1.pxfuel.com/preview/368/540/34/bag-cotton-natural-cotton-bag-advertising-royalty-free-thumbnail.jpg",
+  "description": "Quia ipsa ut facere error repellat rem. Atque id ea ut ducimus reprehenderit iusto voluptatum qui aut. Sed unde et esse quia odio. Quod repellat excepturi.",
+  "price": 33,
+  "manufacturer": "Upton and Sons",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717943"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc49e"
+  },
+  "productCode": "1594-4055547958",
+  "title": "Grey Wolf Tote",
+  "imagePath": "https://p1.pxfuel.com/preview/726/975/813/bag-handbag-womans-bag-sport-bag.jpg",
+  "description": "Quidem est repellat occaecati illum qui corporis. Fugiat non vitae modi voluptas ut possimus atque fugit veniam. Dolores hic earum vitae neque et consequatur. Fugiat sint consequuntur consequatur. Vitae recusandae voluptas amet velit similique perferendis dolorum doloremque. Molestias unde necessitatibus ut.",
+  "price": 48,
+  "manufacturer": "Lockman LLC",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717945"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ffef25523dbb19243fc4a0"
+  },
+  "productCode": "5916-8407446900",
+  "title": "Yellow and Green Bold Tote",
+  "imagePath": "https://p1.pxfuel.com/preview/844/198/547/bag-burlap-advertising.jpg",
+  "description": "Ex quibusdam excepturi eum vitae a quis dolores necessitatibus voluptatibus. Excepturi consectetur dolorum magnam ut dolor delectus quia dolorem. Quis ut et voluptatem expedita et dolor cumque fuga soluta. Exercitationem adipisci autem et fugiat saepe. Autem porro molestiae unde hic pariatur. Reiciendis et natus corporis amet sit maxime aliquid reprehenderit est.",
+  "price": 47,
+  "manufacturer": "Reilly Inc",
+  "available": true,
+  "category": {
+    "$oid": "65ffef11269bfe1c446aecd5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711271717946"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "65fff40c0a7ef821c407410b"
+  },
+  "totalQty": 1,
+  "totalCost": 16,
+  "items": [
+    {
+      "qty": 1,
+      "price": 16,
+      "_id": {
+        "$oid": "65fff40c0a7ef821c407410d"
+      },
+      "productId": {
+        "$oid": "65ffef25523dbb19243fc424"
+      },
+      "title": "Comfortable Laptop Backpack",
+      "productCode": "1490-0514354292"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711272972918"
+    }
+  },
+  "user": {
+    "$oid": "65fff3f40a7ef821c40740fd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65fff8d10a7ef821c4074183"
+  },
+  "totalQty": 4,
+  "totalCost": 137,
+  "items": [
+    {
+      "qty": 3,
+      "price": 99,
+      "_id": {
+        "$oid": "65fff8d60a7ef821c4074190"
+      },
+      "productId": {
+        "$oid": "65ffef25523dbb19243fc49c"
+      },
+      "title": "White Cotton Tote with Drawings",
+      "productCode": "7754-7938840216"
+    },
+    {
+      "qty": 1,
+      "price": 38,
+      "_id": {
+        "$oid": "65fff8da0a7ef821c407419b"
+      },
+      "productId": {
+        "$oid": "65ffef25523dbb19243fc492"
+      },
+      "title": "Multicolored White Tote",
+      "productCode": "0440-6936469453"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1711274193644"
+    }
+  },
+  "user": {
+    "$oid": "65fff8ae0a7ef821c4074176"
+  },
+  "__v": 3
+}]
